@@ -1,4 +1,6 @@
 # Create a configurable file
+# .py files are used for config -> when complex logic, dynamic settings/ classes, safety 
+
 class Config:
     DEBUG = False
     TESTING = False
