@@ -1,0 +1,3 @@
+# create requirements.txt file with all the packages installed in the venv
+
+pip freeze > requirements.txt
