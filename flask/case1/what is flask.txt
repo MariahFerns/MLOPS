@@ -1,0 +1,10 @@
+Flask  is a lightweight, python based web framkework -> web applications
+simple, flexible, has core features -> to serve web applications or API's without enforcing a particular structure
+Flask is used to deploy machne learning models as REST API's
+
+now enables interaction with models -> from different platforms or services
+
+microservice architecture -> Flask helps to have ML model as a microservice
+flexibility in deployment -> can be integrated with larger cloud native architecture-> docker, kubernetes & serverless platform
+
+microservices -> small, independent services that perform specific functions
